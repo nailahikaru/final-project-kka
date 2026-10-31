@@ -1,0 +1,14 @@
+variabel,nilai,evaluasi,waktu_s,waktu_per_eval_ms,memori_MB
+P (titik penduduk),500,12381,1.9591,0.1582,2.6216
+P (titik penduduk),1000,12381,2.3008,0.1858,5.0131
+P (titik penduduk),2000,12381,2.3392,0.1889,11.0222
+P (titik penduduk),4000,12381,2.8816,0.2327,21.4539
+P (titik penduduk),8000,12381,3.9471,0.3188,42.7018
+k (jumlah Kopdes),5,12381,2.1839,0.1764,11.0222
+k (jumlah Kopdes),10,12381,2.2586,0.1824,11.0222
+k (jumlah Kopdes),20,12381,2.6075,0.2106,11.0222
+k (jumlah Kopdes),40,12381,3.4417,0.278,11.0222
+N (kandidat),100,12381,2.5877,0.209,3.3333
+N (kandidat),200,12381,2.3007,0.1858,7.1297
+N (kandidat),400,12381,2.1728,0.1755,14.3862
+N (kandidat),800,12381,1.884,0.1522,27.3613

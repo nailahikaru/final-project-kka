@@ -1,0 +1,31 @@
+skenario,algoritma,skor_mean,skor_std,terlayani_pct,waktu_s,evaluasi
+R=1.0km,Hill Climbing (restart),0.4453,0.0008,21.7145,0.489,9167.3333
+R=1.0km,Random Search,0.4012,0.0057,18.0997,1.4276,24801.0
+R=1.0km,Simulated Annealing,0.4456,0.0004,22.006,1.3417,24801.0
+R=2.0km,Hill Climbing (restart),0.6906,0.0009,63.3647,0.5273,8623.0
+R=2.0km,Random Search,0.6408,0.0057,56.0592,1.6156,24801.0
+R=2.0km,Simulated Annealing,0.6912,0.0011,63.5495,1.5273,24801.0
+R=3.0km,Hill Climbing (restart),0.8522,0.0012,92.3766,0.42,9151.3333
+R=3.0km,Random Search,0.8033,0.008,86.7744,1.4134,24801.0
+R=3.0km,Simulated Annealing,0.8529,0.0,92.7223,1.2659,24801.0
+bobot: fokus ekonomi+akses,Hill Climbing (restart),0.7623,0.0,57.3723,0.6818,10550.6667
+bobot: fokus ekonomi+akses,Random Search,0.6946,0.0093,53.5089,1.5814,24801.0
+bobot: fokus ekonomi+akses,Simulated Annealing,0.7623,0.0,57.3723,1.6566,24801.0
+bobot: fokus jangkauan,Hill Climbing (restart),0.6734,0.0029,65.4401,0.492,8203.0
+bobot: fokus jangkauan,Random Search,0.6085,0.002,57.4664,1.5295,24801.0
+bobot: fokus jangkauan,Simulated Annealing,0.6768,0.0039,66.1555,1.5542,24801.0
+"data besar (5000 pend, 600 kand)",Hill Climbing (restart),0.6963,0.0009,63.3824,1.1382,9842.0
+"data besar (5000 pend, 600 kand)",Random Search,0.6363,0.0009,55.1528,3.0892,24801.0
+"data besar (5000 pend, 600 kand)",Simulated Annealing,0.696,0.0005,63.0271,3.0571,24801.0
+"data kecil (500 pend, 100 kand)",Hill Climbing (restart),0.6823,0.0,63.2917,0.3237,8405.3333
+"data kecil (500 pend, 100 kand)",Random Search,0.6427,0.0008,60.3867,0.8351,24801.0
+"data kecil (500 pend, 100 kand)",Simulated Annealing,0.6823,0.0,63.2917,1.0992,24801.0
+k=10,Hill Climbing (restart),0.6906,0.0009,63.3647,0.5363,8623.0
+k=10,Random Search,0.6408,0.0057,56.0592,1.5869,24801.0
+k=10,Simulated Annealing,0.6912,0.0011,63.5495,1.4807,24801.0
+k=20,Hill Climbing (restart),0.8076,0.0001,87.4093,0.9405,14017.6667
+k=20,Random Search,0.7512,0.0023,79.9852,2.5845,24801.0
+k=20,Simulated Annealing,0.8083,0.0007,87.9943,1.7381,24801.0
+k=5,Hill Climbing (restart),0.5546,0.0009,35.0537,0.3609,7114.3333
+k=5,Random Search,0.5238,0.0028,32.8922,1.0861,24801.0
+k=5,Simulated Annealing,0.5551,0.0,35.1478,1.3549,24801.0
